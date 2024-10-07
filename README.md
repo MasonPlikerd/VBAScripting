@@ -96,4 +96,5 @@ Sub QuarterlyStockAnalysis()
     Next ws
 End Sub
 
-#above is the script ran in VBA to accomplish the taskes of the instructions
+#above is the script ran in VBA to accomplish the taskes of the instructions.
+This assignment shows the ability of excel and its VBA function. THis is an intro into the coding part of the bootcamp or a stepping stone. "Dim" is used for imports
